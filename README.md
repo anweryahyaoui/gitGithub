@@ -1,2 +1,3 @@
 # gitGithub
-gitGithub tuto
+gitGithub tuto 
+and branches tuto
